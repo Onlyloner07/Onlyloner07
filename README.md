@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onlyloner07
+- 👋 Hi, I’m @omoigui joshua 
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on more programming class
